@@ -3,6 +3,8 @@ filetype off                  " required
 syntax enable
 colorscheme molokai
 
+set viminfo='1000,
+
 "get rid of tabs, they're the devils work
 set autoindent
 set expandtab
