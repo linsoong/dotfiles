@@ -1,0 +1,12 @@
+[user]
+	email = linsoong@gmail.com
+	name = Lin Soong
+[core]
+	autocrlf = input
+[credential]
+	helper = store
+[alias]
+  st = status -sb
+  co = checkout
+  br = branch
+  ci = commit
